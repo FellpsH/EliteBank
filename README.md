@@ -387,15 +387,8 @@ SERVER_PORT=8080
 
 **Fellipe Babeto**
 
-- GitHub: [@fellps](https://github.com/fellps)
-- LinkedIn: [Fellipe Babeto](https://linkedin.com/in/fellipe-babeto)
-- Email: seu-email@exemplo.com
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+- GitHub: [@FellpsH](https://github.com/FellpsH)
+- LinkedIn: [Fellipe Babeto](https://www.linkedin.com/in/fellipe-henrique-dev/)
 
 ---
 
